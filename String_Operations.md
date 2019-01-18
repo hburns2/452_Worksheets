@@ -33,3 +33,5 @@ However little known the feelings or views of such a man may be on his first ent
 1. Pull out the phrase "The being" from shelley.
 2. Pull out the phrase "universally acknowledged" from austen.
 3. Combine these two phrases.
+
+Using the .split function, split shelley into indivdiual words. Starting with the second word, use slicing to pull out every other word.
