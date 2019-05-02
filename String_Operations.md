@@ -35,3 +35,11 @@ However little known the feelings or views of such a man may be on his first ent
 3. Combine these two phrases.
 
 Using the .split function, split shelley into indivdiual words. Starting with the second word, use slicing to pull out every other word.
+
+# Explain the output
+
+a) for word in "One can never have enough socks.".split():
+      print(word + "...")
+b) word = "lemon pies"
+   for letter in word.split("e"):
+      print(letter)
